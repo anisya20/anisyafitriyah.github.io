@@ -168,6 +168,9 @@ button:hover {
   transform: scale(1.2);
   transition: 0.7s;
 }
+button:active {
+  background-color: #9995eb;
+}
 
 body {
   font-family: "Poppins", sans-serif;
