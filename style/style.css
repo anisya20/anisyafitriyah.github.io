@@ -169,7 +169,7 @@ button:hover {
   transition: 0.7s;
 }
 button:active {
-  background-color: #9995eb;
+  background-color:rgb(129, 125, 203);
 }
 
 body {
